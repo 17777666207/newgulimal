@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/sql/gulimall_oms.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sql/gulimall_pms.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sql/gulimall_sms.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sql/gulimall_ums.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sql/gulimall_wms.sql" charset="GBK" />
+  </component>
+</project>
