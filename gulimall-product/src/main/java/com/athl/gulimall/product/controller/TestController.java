@@ -11,5 +11,6 @@ public class TestController {
     public void test(){
         // 测试
         System.out.println("panhai提交");
+        System.out.println("panhai提交");
     }
 }
