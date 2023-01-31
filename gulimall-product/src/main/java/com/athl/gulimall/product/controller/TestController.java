@@ -9,7 +9,7 @@ public class TestController {
 
     @RequestMapping
     public void test(){
-        System.out.println("panhai提交");
+        System.out.println("njh交");
         // 测试
         System.out.println("panhai提交");
         System.out.println("panhai提交");
