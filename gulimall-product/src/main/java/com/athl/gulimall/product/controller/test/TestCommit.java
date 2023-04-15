@@ -8,6 +8,8 @@ public class TestCommit {
         System.out.println("test");
         System.out.println("why");
         System.out.println("ok");
+        System.out.println("yes");
+
 
     }
 }
